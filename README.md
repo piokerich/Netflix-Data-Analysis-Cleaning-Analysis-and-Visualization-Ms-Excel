@@ -1,0 +1,2 @@
+# Netflix-Data-Analysis-Cleaning-Analysis-and-Visualization
+Welcome to the Netflix Data Analysis project, a comprehensive exploration of Netflix's content catalog. In this project, we meticulously examine Netflix's raw data, employing a rigorous analytical process to ensure accuracy and reliability. From data extraction to visualization, every step is performed with precision and attention to detail.
