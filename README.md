@@ -16,7 +16,8 @@ Welcome to the Netflix Data Analysis project, a comprehensive exploration of Net
 
 The raw data for this project was sourced from Kaggle, a reputable platform for datasets:
 
-- [Netflix Data on Kaggle]([link-to-kaggle-dataset](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization/download?datasetVersionNumber=1))
+- [Netflix Data on Kaggle](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization/download?datasetVersionNumber=1)
+
 
 ## Data Analysis Steps
 
