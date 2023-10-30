@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Netflix Data Analysis project, a comprehensive exploration of Netflix's content catalog. In this project, we meticulously examine Netflix's raw data, employing a rigorous analytical process to ensure accuracy and reliability. From data extraction to visualization, every step is performed with precision and attention to detail.
+Welcome to the Netflix Data Analysis project, a comprehensive exploration of Netflix's content catalog. In this project, i meticulously examined Netflix's raw data, employed rigorous analytical process to ensure accuracy and reliability. From data extraction, cleaning to visualization, every step I've performed with precision and attention to detail.
 
 ## Author
 
@@ -21,13 +21,13 @@ The raw data for this project was sourced from Kaggle, a reputable platform for 
 
 ## Data Analysis Steps
 
-Our approach involves a series of meticulous steps to derive meaningful insights from the data:
+My approach involves a series of meticulous steps to derive meaningful insights from the data:
 
-1. **Data Extraction:** The raw dataset is extracted from the Kaggle repository.
-2. **Data Cleaning:** Rigorous cleaning procedures are applied, addressing issues like duplicates, spelling errors, and inconsistent formats.
-3. **Exploratory Data Analysis (EDA):** EDA techniques are employed to understand the data, identify patterns, and unveil trends. This includes statistical calculations, visualizations, and correlation analyses.
-4. **Data Preparation:** The dataset is prepared for visualization, involving the creation of new variables and necessary data filtering.
-5. **Data Visualization:** Excel is utilized to craft visually appealing charts and graphs that succinctly present the analysis findings.
+1. **Data Extraction:** The raw dataset is extracted from the Kaggle repository as a csv file i import to excel spreadsheets.
+2. **Data Cleaning:** Applied Rigorous cleaning procedures, addressing issues like duplicates, spelling errors, and inconsistent formats.
+3. **Exploratory Data Analysis (EDA):** Employed EDA techniques  to understand the data, identify patterns, and unveil trends. This includes statistical calculations, visualizations, and correlation analyses.
+4. **Data Preparation:** Prepared The dataset for visualization, involving the creation of new variables and necessary data filtering.
+5. **Data Visualization:** Utilized Excel  to craft visually appealing charts and graphs that succinctly present the analysis findings.
 
 ## Visualizations
 
